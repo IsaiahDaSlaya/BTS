@@ -1,0 +1,25 @@
+.navbar
+{
+    font-size: 33px;
+}
+a.btsLogo
+{
+    margin-left: 2%;
+}
+div.contentContainer
+{
+    margin-top: 10%;
+}
+div.btsJumbo
+{
+    background: url(../images/adOne.jpg) top center;
+	background-blend-mode:overlay;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	opacity: .89;
+	margin-top: 7%;
+	padding-bottom: 28em;
+}
